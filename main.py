@@ -1,0 +1,5 @@
+print("hello world")
+print("hey")
+print("name:akriti")
+print("favorite food:")
+print("mood:happy")
